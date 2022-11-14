@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ironshashwat (Shashwat Mishra)
 - 👀 I’m interested in full stack development and software development
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android and other tech stack
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 You can reach me at shashwatmishra2608@gmail.com 
 
