@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ironshashwat (Shashwat Mishra)
+- 💻 Full Stack developer
 - 👀 I’m interested in full stack development and software development
 - 🌱 I’m currently learning Android and other tech stack
 - 📱 Learning Android Development
